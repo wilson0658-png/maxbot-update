@@ -1,2 +1,2 @@
 # maxbot-update
-update the code
+增加刷票功能及刪除資料夾
